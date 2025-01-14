@@ -1,0 +1,18 @@
+excel:
+  file: web_cases.xlsx
+
+logger:
+  name: "LOG"
+  file: "LOG.txt"
+  logger_level: "DEBUG"
+  stream_level: "DEBUG"
+  file_level: "INFO"
+
+user:
+  mobile_phone: ""
+  pwd: ""
+
+
+selenium:
+  wait_time: 20
+

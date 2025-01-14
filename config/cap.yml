@@ -1,0 +1,5 @@
+platformName: "Android",
+deviceName: "QASEI630SCV0218",
+appPackage: "com.nes.hometv",
+appActivity: ".activity.SplashActivity",
+automationName: "UiAutomator2",
