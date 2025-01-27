@@ -1,2 +1,1 @@
-# homatv_launcher
-hommatv
+pytest+airtest+allure
